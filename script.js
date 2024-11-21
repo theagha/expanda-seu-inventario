@@ -204,7 +204,7 @@ const phases = [
       loadQuestion();
       nextBtn.style.display = "none";
     } else {
-      alert("Parabéns! Você completou todas as fases e coletou todos os itens!");
+      alert("Salmos 37:3-6 — Confia no Senhor e faça o bem; habita na terra e alimenta-te da verdade. Agrada-te do Senhor, e ele satisfará os desejos do teu coração. Entrega o teu caminho ao Senhor, confia nele, e o mais ele fará. Fará sobressair a tua justiça como a luz e o teu direito, como o sol ao meio-dia.");
       nextBtn.style.display = "none";
     }
   };
